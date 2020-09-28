@@ -1,7 +1,7 @@
 ---
 title: "Pronunciation Rule!"
 date: 2020-09-27 21:30:00
-categories: writing
+categories: english
 ---
 
 
