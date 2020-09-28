@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with Essay Writing week 3!"
 date: 2020-05-13 15:00:00
-categories: writing
+categories: english
 ---
 
 # Introduction to writing compare/contrast essays (simply, comparison essay)
