@@ -17,9 +17,9 @@ Rule 3.2 :  The vowels before final **voiced** consonants sound **longer**.
 
 ### Pronouncing the -_s_/-_es_ Ending
 Rule 4.1 : If the word ends in 
-  - a voiceless sound (fit, top, Mark), add the voicess /s/.
-  - a voiced sound (pay, read, Laura), add the voiced /z/.
-  - a sibilant consonant sound (/s, z, ʃ, tʃ, dʒ/), add the syllable /ǝz/ or /iz/
+  - a voiceless sound (fit, top, Mark), add the voicess _/s/_.
+  - a voiced sound (pay, read, Laura), add the voiced _/z/_.
+  - a sibilant consonant sound (_/s, z, ʃ, tʃ, dʒ/_), add the syllable _/ǝz/_ or _/iz/_
 
 ### Pronouncing the -_ed_ Ending
 We use -ed endings on regular verbs in these ways:
@@ -27,9 +27,9 @@ We use -ed endings on regular verbs in these ways:
 - Past Participle: It hasn't rained for three months.
 
 Rule 4.2 : In verbs that end in:
-- voiceless sounds (work), the -ed sounds like the voicelss /t/;
-- voiced sounds (close), the -ed sounds like the voiced /d/;
-- /t/ or /d/ (wait, add), the -ed sounds like the syllable /ǝd/ or /id/
+- voiceless sounds (work), the -_ed_ sounds like the voicelss _/t/_;
+- voiced sounds (close), the -_ed_ sounds like the voiced _/d/_;
+- _/t/_ or _/d/_ (wait, add), the -_ed_ sounds like the syllable _/ǝd/_ or _/id/_
 
 ### Word Stress in Compound Nouns
 Rule 5.1 : The primary stree usually falls on the **first** noun in compound nouns.
@@ -82,7 +82,7 @@ Rule 5.6 : Say each letter of an abbreviation clearly and separately. The **firs
 * CD, EU, MA, CNN
 
 ### Suffixes Beginning with -_i_
-Rule 6.1 : In words with suffixes beginning with -_i_ , stress the syllable immediately before the -i suffix.
+Rule 6.1 : In words with suffixes beginning with -_i_ , stress the syllable immediately before the -_i_ suffix.
 * -ion(-tion, -sion) : lo**ca**tion, con**di**tion, con**clu**sion
 * -ic : rea**lis**tic, aca**dem**ic, antibi**ot**ic
 * -ical : psycho**log**ical, **tech**nical, po**lit**ical
