@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with Essay Writing week 2!"
 date: 2020-05-12 16:00:00
-categories: writing
+categories: english
 ---
 
 ## Introduction
