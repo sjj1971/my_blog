@@ -41,83 +41,58 @@ Other details include information about who and what were involved. Listening fo
 - How many: Listen for numbers (e.g., five feet).
 - What: Listen for things (e.g., sea levels).
 
-### Pronouncing the -_ed_ Ending
-We use -ed endings on regular verbs in these ways:
-- Simple Past: They watched a lot of old movies.
-- Past Participle: It hasn't rained for three months.
+### Speaking skill : Talk about Causes and Effects
+When speaking, it is often necessary to describe the causes and effects of an event or action.
+Theis helps listeners understand how or why the event or action is important.
+For example, the cause of melting sea ice is climate change. One effect of sea ice met is an increase in sea levels
+Notice how the words and phrases to signal cause and effect are used in the following exampels:
+- causes  : Climate change causes sea ice to melt
+- leads to : The loss of sea ice leads to an increase in sea level.
+- effect/impact : Climate change has had an effect/impact on sea ice
+- because : Sea levels are rising because the sea ice is melting
+- as a result of : More sea ice will melt as a result of climate change.
 
-Rule 4.2 : In verbs that end in:
-- voiceless sounds (work), the -_ed_ sounds like the voicelss _/t/_;
-- voiced sounds (close), the -_ed_ sounds like the voiced _/d/_;
-- _/t/_ or _/d/_ (wait, add), the -_ed_ sounds like the syllable _/ǝd/_ or _/id/_
+### Listening skill : infer meaning
+When you listen, you can often make inference or infer meaning from what you hear.
+You can guess what the speaker means even if he or she does not say it directly.
+Good listners combine information from different sources to make inferences.
 
-### Word Stress in Compound Nouns
-Rule 5.1 : The primary stree usually falls on the **first** noun in compound nouns.
-- password, deadline, post offic
-
-### Word Stress in Numbers like 50 and 15
-Rule 5.2: 
-- Stress the **first** syllable in most ten numbers (20, 30, 40).
-- Stress the **second** syllable in -teen numbers when they are the last word in the phrase.
-* Note : When the -teen number is in the middle of the phrase, -teen is lightly stressed, but the first syllable has the primary stress, Listening confusion is more likely to occur in these cases.
-- It's fifty. It's fifteen dollars. 
-
-### Word Stress in Two-syllable Verbs
-Rule 5.3 : In two-syllable verbs with a prefix, stress the root form.
-- de**cide** : decide on the next step
-- con**vince** : convince him to go
-- re**fer** : refer to your notes
-
-### Word Stress in Two-Syllable Noun-Verb Pairs
-Rule 5.4 : Stress the **first** syllable in nouns and the **second** syllable in verbs.
-- Nouns; Verbs
-- **con**duct : good **con**duct;           con**duct** : con**duct** the orchestra
-- **pre**sent : past, present, and future;  pre**sent** : pre**sent**ed the award
-- **re**cord : broke a **re**cord;          re**cord** : re**cord** your message
-* Note : Not all two-syllable nound-verb pairs shift stree (e.g. a reprot and to report; a reply and to reply; an answer and to answer).
-* Two-Syllable Noun-Verb Pairs Without Stress Shift
-  - **an**swer;  **an**swer
-  - con**cern**; con**cern**
-  - de**bate**; de**bate**
-  - de**lay**; de**lay**
-  - de**sign**; de**sign**
-  - mis**take**; mis**take**
-  - **of**fer; **of**fer
-  - **pro**fit; **pro**fit
-  - **pro**gram; **pro**gram
-  - **pro**mise; **pro**mise
-  - re**ply**; re**ply**
-  - re**port**, re**port**
-  - sur**prise**, sur**prise**
+### Speaking skill : Check you understanding
+There are many ways to check - and get a better understanding of - whet someone has just said.
+1. If you heard but did not understand the meaning of a word, repeat if with rising intonation:
+  A : Some invention happened because of a luck break.
+  B : Lucky break?
+2. If you did't understand part of what the speaker said, repeat the part that you did understand.
+  A : I think he is a divergent thinker.
+  B : You think he is a what?
+3. To confirm your understanding, use the phrases below : 
+  So, are you saying that---? / So, what you mean is ---?
+4. To clarify what a speaker said, use the following phrases:
+  What do you mean?
+  How'a that? / How so?
+  I am not sure I understand. / I am not sure I follow.
   
-### Word Stress in Tow-Word Verbs
-Rule 5.5 : Tow-word verbs are often stress on the **second** word. Noun partners of these verbs have primary stress on the first word
-* verb: print **out**, noun: **print**out
-* print **out** : try to print it **out**
-* check **out** : ready to check **out**
-* drop **out** : don't drop **out**
+### Note-taking skill : Make a Time Line
+often speakers use chronological (time) order when they describe an event.
+In other words, they explain what happened first, second, next, and so on.
+You can use this time order to help organize your notes.
+Listen for the following references to times and datas:
+- in + year, on + day, by
+- since, ago, when, for
+- during, before, after
+- now, then, next, later
 
-### Stress in Abbreviations
-Rule 5.6 : Say each letter of an abbreviation clearly and separately. The **first** letter has the strongest stress.
-* CD, EU, MA, CNN
+### Listening Skill : Make predictions
+Listening to someone talk about unfamiliar content can be challenging.
+Making predictions about what you are going to hear is one way to make the content easier to understand.
+To make predictions, think about the answers to these questions:
+- What will you be listening to? Is it a lecture, a conversation, or an interview?
+- Will there be more than one speaker? what do you know about the speaker(s)?
+- Does the elcture or presentation have a title? If so, what do yo know about the topic?
 
-### Suffixes Beginning with -_i_
-Rule 6.1 : In words with suffixes beginning with -_i_ , stress the syllable immediately before the -_i_ suffix.
-* -ion(-tion, -sion) : lo**ca**tion, con**di**tion, con**clu**sion
-* -ic : rea**lis**tic, aca**dem**ic, antibi**ot**ic
-* -ical : psycho**log**ical, **tech**nical, po**lit**ical
-* -ity : di**vers**ity, mi**nor**ity, pu**blic**ity
-* -ian(-sian, -cian) : phy**si**cian, elec**tri**cian, Indo**ne**sian
-* -ial(-cial, -tial) : i**ni**tial, arti**fi**cial, es**sen**tial
-
-### Suffixes -_graphy_ and -_logy_
-Rule 6.2 : In words with the suffixes -graphy and -logy, stress the syllable immediately before the suffix
-* -graphy : bi**o**graphy, ge**o**graphy, bibli**o**graphy
-- -logy : e**co**logy, tech**no**logy, radi**o**logy
-
-### Suffixes from French (-_ee_, -_eer_, -_ese_, -_ique_)
-Rule 6.3 : In words with French suffixes, the stress falls on the suffix itself.
-* -ee : trust**ee**, refug**ee**, train**ee**
-* -eer : volunt**eer**, car**eer**, engin**eer**
-* -ese : Leban**ese**, Canton**ese**, Vienn**ese**
-* -ique : techn**ique**, ant**ique**, un**ique**
+ ### Speaking skill : make suggestions
+ During a group discussion, it is common to discuss ideas about what to do.
+ Use these forms to make polite suggestions:
+ - Modal vers : We shold + verb. We ought to + verb
+ - Short phrases : It would be a good idea to + ...., I suggest (that) we..., Let's ....
+ - Questions : How about + noun /gerund? What about + noun/gerund?
